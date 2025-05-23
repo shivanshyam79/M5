@@ -1,5 +1,5 @@
-# NAME: HITHESHHWARAN A R
-# REG.NO: 212224040118
+# NAME: SHYAM R
+# REG.NO: 212223040200
 # EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
